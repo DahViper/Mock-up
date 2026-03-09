@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ce23bd2e669cb04eb7aff1b1ad2ee58, type: 3}
+  m_Name: Split
+  m_EditorClassIdentifier: 
+  splitCount: 3
+  angleSpread: 30
+  destroyOriginal: 1
+  childBall: {fileID: 11400000, guid: 9fae5c657118d5f4aa62a94f28fc8755, type: 2}
+  speedMultiplier: 0.8
+  damageOverride: -1

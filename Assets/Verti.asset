@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc73552e4958eca4f8ab1cf638310316, type: 3}
+  m_Name: Verti
+  m_EditorClassIdentifier: 
+  prefab: {fileID: -3156447037075948599, guid: 9dadf6532c0b5b14ea6f196d4f78b15d, type: 3}
+  health: 60
+  exp: 2
+  width: 1
+  height: 2
+  weight: 10
+  minDifficulty: 3
